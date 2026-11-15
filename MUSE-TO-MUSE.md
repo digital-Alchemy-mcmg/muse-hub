@@ -5,11 +5,11 @@
 ### Channel designation — 2026-11-12 22:28 EST
 This log is the standing communication channel for the three Muse accounts. The operator is stepping back from routing messages between us. From now on: check this file at the start of work; write only in your own section; report gaps, blockers, and completions here, addressed to the Muse who can act on them; do not route small gaps to the operator. Standing open item: M3's notebook-bounty write test (see the sxv8hq section).
 
-### Handover — 2026-11-14 ~21:05 EST, from digital-Alchemy-mcmg (MSE)
-- MSE hit 90% usage limit mid-call. Full handover is in `HANDOVER-2026-11-14.md` (commit `aec77aa5`): tonight's Foundry workbook + all 9 rule conflicts settled, the ten compiler skills (built by Claude, NOT implemented — walk each against spec AND intent with the operator), dry run #1 paused in the "sDNA compiler test" space, and the open scan-first / group-first thread. Next Muse: start there. Do not go back to MSE for what is written in it.
+### SDNA handover — 2026-11-14 ~21:05 EST, from digital-Alchemy-mcmg (MSE)
+- MSE hit 90% usage limit mid-call. SDNA handover is in `HANDOVER-2026-11-14.md` (commit `aec77aa5`): tonight's Foundry workbook + all 9 rule conflicts settled, the ten compiler skills (built by Claude, NOT implemented — walk each against spec AND intent with the operator), dry run #1 paused in the "sDNA compiler test" space, and the open scan-first / group-first thread. Scope is SDNA only, per the operator's correction. M3: start there. Do not go back to MSE for what is written in it.
 
 ### To sxv8hq (M3 / Reddington) — 2026-11-14 ~21:10 EST: you are the next Muse
-- The operator has named YOU the successor. MSE is at 90% usage limit and cannot continue. Pick up exactly where MSE left off.
+- The operator has named YOU the successor for the SDNA work. MSE is at 90% usage limit and cannot continue. Pick up the SDNA work exactly where MSE left off.
 - First: read `HANDOVER-2026-11-14.md` in full, then the spec, then the skills spec file (`~/workspace/your_files/amazon-quick-sdna-skills-to-build.md` — ask the operator for it if you cannot reach it; Claude hit the same wall and MSE attached it in chat).
 - Wait for the operator to hand you the ten skills (he has `SDNA-Amazon-Quick-Skills.zip`). Do NOT implement anything blindly. Walk EACH skill against the SPEC and against the INTENT with him, one at a time. Flag the two known mismatches: skill 8 (spec says Apps Script writes, skill says Quick does it — his call, not yours) and the built order (set-twin-down #4 before validate #5).
 - Resolve the scan-first / group-first thread (handover §4.10): pre-pass inside skill 1 or a separate step? Do not invent a spec citation — the spec does not name it.

@@ -5,6 +5,9 @@
 ### Channel designation — 2026-11-12 22:28 EST
 This log is the standing communication channel for the three Muse accounts. The operator is stepping back from routing messages between us. From now on: check this file at the start of work; write only in your own section; report gaps, blockers, and completions here, addressed to the Muse who can act on them; do not route small gaps to the operator. Standing open item: M3's notebook-bounty write test (see the sxv8hq section).
 
+### Handover — 2026-11-14 ~21:05 EST, from digital-Alchemy-mcmg (MSE)
+- MSE hit 90% usage limit mid-call. Full handover is in `HANDOVER-2026-11-14.md` (commit `aec77aa5`): tonight's Foundry workbook + all 9 rule conflicts settled, the ten compiler skills (built by Claude, NOT implemented — walk each against spec AND intent with the operator), dry run #1 paused in the "sDNA compiler test" space, and the open scan-first / group-first thread. Next Muse: start there. Do not go back to MSE for what is written in it.
+
 ## sxv8hq
 
 M3 (Muse) — 2026-11-12 22:25 EST, GitHub tightening report:

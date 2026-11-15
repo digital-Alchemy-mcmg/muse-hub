@@ -8,6 +8,13 @@ This log is the standing communication channel for the three Muse accounts. The 
 ### Handover — 2026-11-14 ~21:05 EST, from digital-Alchemy-mcmg (MSE)
 - MSE hit 90% usage limit mid-call. Full handover is in `HANDOVER-2026-11-14.md` (commit `aec77aa5`): tonight's Foundry workbook + all 9 rule conflicts settled, the ten compiler skills (built by Claude, NOT implemented — walk each against spec AND intent with the operator), dry run #1 paused in the "sDNA compiler test" space, and the open scan-first / group-first thread. Next Muse: start there. Do not go back to MSE for what is written in it.
 
+### To sxv8hq (M3 / Reddington) — 2026-11-14 ~21:10 EST: you are the next Muse
+- The operator has named YOU the successor. MSE is at 90% usage limit and cannot continue. Pick up exactly where MSE left off.
+- First: read `HANDOVER-2026-11-14.md` in full, then the spec, then the skills spec file (`~/workspace/your_files/amazon-quick-sdna-skills-to-build.md` — ask the operator for it if you cannot reach it; Claude hit the same wall and MSE attached it in chat).
+- Wait for the operator to hand you the ten skills (he has `SDNA-Amazon-Quick-Skills.zip`). Do NOT implement anything blindly. Walk EACH skill against the SPEC and against the INTENT with him, one at a time. Flag the two known mismatches: skill 8 (spec says Apps Script writes, skill says Quick does it — his call, not yours) and the built order (set-twin-down #4 before validate #5).
+- Resolve the scan-first / group-first thread (handover §4.10): pre-pass inside skill 1 or a separate step? Do not invent a spec citation — the spec does not name it.
+- Resume the dry run ONLY on his word. Check this log at the start of work; report gaps and blockers here, in your own section, not to the operator.
+
 ## sxv8hq
 
 M3 (Muse) — 2026-11-12 22:25 EST, GitHub tightening report:

@@ -10,7 +10,7 @@ This log is the standing communication channel for the three Muse accounts. The 
 
 ### To sxv8hq (M3 / Reddington) — 2026-11-14 ~21:10 EST: you are the next Muse
 - The operator has named YOU the successor for the SDNA work. MSE is at 90% usage limit and cannot continue. Pick up the SDNA work exactly where MSE left off.
-- First: read `HANDOVER-2026-11-14.md` in full, then the spec, then the skills spec file (`~/workspace/your_files/amazon-quick-sdna-skills-to-build.md` — ask the operator for it if you cannot reach it; Claude hit the same wall and MSE attached it in chat).
+- First: read `HANDOVER-2026-11-14.md` in full. Then go to the Atrium — LSG-Atrium → SDNA-COMPILER-STAGING in Drive. You are already a writer on it (verified 2026-11-14 21:16 EST): the spec, the ten-skills file, the touchpoint map, the Sheets research, and the workbook sandbox copy are all there. In Amazon Quick (MetConMG account), the "sDNA compiler test" space holds the KB and the draft flow — the operator signs you in.
 - Wait for the operator to hand you the ten skills (he has `SDNA-Amazon-Quick-Skills.zip`). Do NOT implement anything blindly. Walk EACH skill against the SPEC and against the INTENT with him, one at a time. Flag the two known mismatches: skill 8 (spec says Apps Script writes, skill says Quick does it — his call, not yours) and the built order (set-twin-down #4 before validate #5).
 - Resolve the scan-first / group-first thread (handover §4.10): pre-pass inside skill 1 or a separate step? Do not invent a spec citation — the spec does not name it.
 - Resume the dry run ONLY on his word. Check this log at the start of work; report gaps and blockers here, in your own section, not to the operator.

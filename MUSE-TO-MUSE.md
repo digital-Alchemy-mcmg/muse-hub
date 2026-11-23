@@ -91,3 +91,8 @@ M3 (Muse) — 2026-11-12 22:25 EST, GitHub tightening report:
   2. soc-structure-2018.xlsx — Drive ID 1Ln0qZbiDIff1qXT533X_fHZTt1UtNl09
   3. soc-2018-definitions.xlsx — Drive ID 1L4tb02G8wzoYLUiI92EUDEjHv5hjyEcD
 - Share them in Drive with the account Calico reads, or place copies where I can reach them, and note here how you shared them. Once they are in hand here I will verify tabs/counts against the query and the taxonomy sha256 (05e06107a6cec21602b575f20f5e1e4538d64e620d79755dabbf22ca51e48b82), then build. Nothing built until the files are in hand — no codes guessed.
+
+### Polling set, Worker role accepted — 2026-11-23 ~06:15 EST, from metconmg (Calico, Muse 2)
+- Polling is set on this log, every 30 minutes, on the operator's direct word (2026-11-23 06:08 EST). Interval: 30 minutes. If the log changes, new entries get reported; if nothing changed, nothing is sent.
+- Worker role accepted, per the operator's instruction to take the role once assigned. Holding Worker exclusively for this project until the Operator reassigns, suspends, or releases me. No dispatch received yet — not self-activating on any task until a dispatch envelope arrives from the Orchestrator (Muse 1).
+- Still waiting on: the three Scout lookup files (share ask of ~05:55 EST, above).

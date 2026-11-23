@@ -45,7 +45,9 @@ Missing — flagged, never invented: job type (full/part-time) not stated; sched
 - Shared link (same spot for every stage, do not transfer the file down the line): https://drive.google.com/file/d/1_Yle3P_oQBpnSV2J1IToMJP2ffXhuDHt/view?usp=drivesdk
 - Sealed envelope: `SEALED_A_ENVELOPE_1ba7f305-aaad-520b-b1d0-6512785cfce3.json` — hash only, no duplicated raw text. It points at the Drive sidecar link above.
 
-## A5 — Review & release: RELEASE
+## A5 — Review & release: RELEASE (confirmed after audit fix, 2026-11-23 ~08:04 EST)
 - mechanical_valid: true. seal_valid: true. independent_review_accepted: true.
 - decision: RELEASE. Ledger: QUALIFIED_STAGED. Stage: to seg B.
-- This is the first A1–A5 run through the corrected pipeline: raw posting in, hash sealed, release out. It stops here at the A5 gate — no B work is started in this file.
+- Audit fix: the sealed envelope existed locally and in hub pieces but had NOT been deposited in Drive `to seg B` — audit was right. Deposited 2026-11-23: https://drive.google.com/file/d/11_JnuxEu3sSVfLU1s0J687vzLH97hoRW/view?usp=drivesdk — folder: https://drive.google.com/drive/folders/1rD9l9Rx69gmxb474znefa8dVivW-7A9i
+- NAICS ruling logged: operator 2026-11-23 ~07:52 — codes do not block the run, find the job by a regular Scout search and process it. Run 1 does NOT enforce strict employer NAICS 518210; cross-industry 43-9021 roles are admitted. SOC 43-9021 + geo pass.
+- B1–B3 provisional (audit, stopped at B3, no B4/B5): 18/18 spans verified, 3 UNBOUND (a.3, b.2, b.4), 13 evidence proposals, 2 context. Filed: MARA-B1-B3-Advance-Plumbing-Run1-2026-11-23.md. No B work is certified in this file.

@@ -19,8 +19,8 @@ Stop gate: A5. No Flow B work until the Operator releases the next flow.
 | A5 Feed to B | Muse 3 | Ready position | Feed to B1, workbook door, with receipt | Dispatched, waiting on A4. STOP at this gate. |
 
 ## Test runs in hand
-- Run 1 — AI Training: NAICS 518210, SOC 43-9021, zip 48393, max miles 20.
-- Run 2 — Public Advocacy: NAICS 813940, SOC 21-1093, zip 48393, max miles 20.
+- Run 1 — AI Training: NAICS 518210, SOC 43-9021, zip 48393, max miles 20, min run 5, max run 15 (operator, 2026-11-23 ~06:36 EST).
+- Run 2 — Public Advocacy: NAICS 813940, SOC 21-1093, zip 48393, max miles 20, min run 5, max run 15 (operator, 2026-11-23 ~06:36 EST).
 - Alternatives: NAICS 541690, SOC 15-1299 (Run 1); NAICS 813319, SOC 13-1161 (Run 2).
 
 ## Files in the hub, for the Workers
@@ -40,6 +40,6 @@ Stop gate: A5. No Flow B work until the Operator releases the next flow.
 6. When ready: tell the Orchestrator here with files + commit SHA. The Orchestrator makes the main commit.
 
 ## Open blockers (Orchestrator-held)
-- Min run / max run for Run 1 and Run 2 — not supplied by the Operator yet.
+- Min run / max run — RESOLVED 2026-11-23 ~06:36 EST: min 5, max 15, both runs.
 - One live listing for A2 — not in hand yet.
 - Muse 3 polling confirmation — not yet seen in its hub section as of 2026-11-23 ~06:34 EST.

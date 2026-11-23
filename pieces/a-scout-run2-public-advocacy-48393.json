@@ -1,1 +1,30 @@
-{"anti_pattern":null,"collect_all_criteria_for_anti_pattern":false,"current_station":"A1","flow":"A","job":"Public Advocacy, Campaign Organizing & Rally Support","max_miles":20,"max_run":null,"min_run":null,"naics_code":"813940","naics_title":"Political Organizations","next_station":"A2","route":["A1","A2","A3","A4","A5"],"run":"Run 2","soc_code":"21-1093","soc_title":"Social and Human Service Assistants","validation":{"naics_in_starter_lookup":false,"naics_note":"Not in starter lookup (48 codes). To be scripted from 2022 NAICS Manual at implementation, per ruling — do not ingest whole manual.","soc_in_full_soc_books":true,"soc_in_starter_lookup":true,"zip":"48393"}}
+{
+  "anti_pattern": null,
+  "collect_all_criteria_for_anti_pattern": false,
+  "current_station": "A1",
+  "flow": "A",
+  "job": "Public Advocacy, Campaign Organizing & Rally Support",
+  "max_miles": 20,
+  "max_run": 15,
+  "min_run": 5,
+  "naics_code": "813940",
+  "naics_title": "Political Organizations",
+  "next_station": "A2",
+  "route": [
+    "A1",
+    "A2",
+    "A3",
+    "A4",
+    "A5"
+  ],
+  "run": "Run 2",
+  "soc_code": "21-1093",
+  "soc_title": "Social and Human Service Assistants",
+  "validation": {
+    "naics_in_starter_lookup": false,
+    "naics_note": "Not in starter lookup (48 codes). To be scripted from 2022 NAICS Manual at implementation, per ruling \u2014 do not ingest whole manual.",
+    "soc_in_full_soc_books": true,
+    "soc_in_starter_lookup": true,
+    "zip": "48393"
+  }
+}

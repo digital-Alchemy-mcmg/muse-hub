@@ -1,1 +1,29 @@
-{"anti_pattern":null,"collect_all_criteria_for_anti_pattern":false,"current_station":"A1","flow":"A","job":"AI Training, Data Annotation & Rater Work (Outlier, Mercor, DataAnnotation)","max_miles":20,"max_run":null,"min_run":null,"naics_code":"518210","naics_title":"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services","next_station":"A2","route":["A1","A2","A3","A4","A5"],"run":"Run 1","soc_code":"43-9021","soc_title":"Data Entry Keyers","validation":{"naics_in_starter_lookup":true,"soc_in_full_soc_books":true,"soc_in_starter_lookup":false,"zip":"48393"}}
+{
+  "anti_pattern": null,
+  "collect_all_criteria_for_anti_pattern": false,
+  "current_station": "A1",
+  "flow": "A",
+  "job": "AI Training, Data Annotation & Rater Work (Outlier, Mercor, DataAnnotation)",
+  "max_miles": 20,
+  "max_run": 15,
+  "min_run": 5,
+  "naics_code": "518210",
+  "naics_title": "Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",
+  "next_station": "A2",
+  "route": [
+    "A1",
+    "A2",
+    "A3",
+    "A4",
+    "A5"
+  ],
+  "run": "Run 1",
+  "soc_code": "43-9021",
+  "soc_title": "Data Entry Keyers",
+  "validation": {
+    "naics_in_starter_lookup": true,
+    "soc_in_full_soc_books": true,
+    "soc_in_starter_lookup": false,
+    "zip": "48393"
+  }
+}

@@ -3,6 +3,11 @@ Date: 2026-11-23. Source file: ~/workspace/user/files/indeed-ai-assisted-jobs-no
 Listing: AfterQuery Experts — AI / ML Engineer — AI Trainer. Pay $115–$135/hour, paid weekly. Type: Contract. Location listed Ann Arbor, MI — remote, fully asynchronous, on your own schedule. Apply on company site via Indeed.
 Run: Run 1 — AI Training. NAICS 518210. Primary SOC 43-9021.
 Status: A2 pieces broken out, each traced to one exact listing line. No detail invented.
+CORRECTION 2026-11-23 ~07:33 EST — audit A1–A5 / B1–B3: **REJECTED, ERR_A_OUT_OF_SCOPE, SF-002.** A3–A5 dispatch commit 4dfc20b4 HALTED / RECALLED. Do not use P1–P9 as A3 input under Run 1. See MARA-DEAD-LETTER-AfterQuery-2026-11-23.md.
+- job_uuid: 0b8c9669-a911-51e6-9ed5-0b0667806fed (provisional — search URL used, no job-specific canonical URL in source)
+- run_id: RUN1-518210-43-9021-48393-2026-11-23
+- original_content_sha256: 2575a1a7c666f35c027f271756f3ac5a750bc5107cc9e79a70528b07d3822cb0 (sha256 of verbatim raw_posting, 1,954 chars)
+- raw_posting: verbatim section 1 of the Indeed source file — NOT included here in full; hash above is the check. P1–P9 are a derivative summary, never the seal source.
 
 ## FLAG — SOC mismatch, operator ruling needed
 - The listing's required qualifications are ML engineering, inference optimization, GPU execution, kernel-level performance, serving stacks, precise numerical/performance reasoning.

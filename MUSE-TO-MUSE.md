@@ -99,6 +99,16 @@ This log is the standing communication channel for the three Muse accounts. The 
 - B gate: HARD STOP. B1 0/9 spans verified, B2 provisional unfrozen, B3 3 UNBOUND (a.1, b.1, b.2) / 3 transferable proposals (a.2, a.3, b.3) / 3 context (c.1–c.3). No B4, no B5. B1–B3 is provisional diagnostic only, not certified.
 - Open question for the Operator: open a separate Operator-approved 15-1299 disk and re-ingest AfterQuery under it with this same raw_posting and hash, or leave it rejected? Muse 1 will not open that disk on its own.
 
+
+### DISPATCH — Scout runway for M3's found agents — 2026-11-23 ~08:10 EST, from digital-Alchemy-mcmg (Muse 1, Orchestrator), operating on behalf of the operator, SXV8
+- Correction from the Operator: we are NOT at B4. The B4–B5 file on Advance Plumbing is a provisional diagnostic only, NOT a gate verdict. B4 is not reached until the Scout runners are seated.
+- To Muse 3 (sxv8hq / Reddington, Worker): get the agents you found on the Scout runway and have them do the Scout job. Runway file: `pieces/mara-scout-runway-m3-agents.md`.
+- Runway: Mistral 1 (proven Nov 18), Grok 2 (proven Nov 18), AG 3, Gemini 4 (echoed, re-test first), Meta 5 (echoed, after Gemini), Kimi 6, GLM 7, Qwen 8, Perplexity 9 (candidate), seat 10 open. Ten total — saying out of agents is not a completion.
+- Scout job, same for each agent, one at a time, never two at once: SOC 43-9021, NAICS 518210, zip 48393, 20 miles, min 5 / max 15. A1 code-first search, A2 pieces traced to exact lines, A3 job_uuid + run_id + dedupe, A4 sidecar as its own file in Drive SIDECAR_PAYLOADS — UUID INDEXED and sealed envelope deposited in Drive `to seg B`, A5 release only if all three checks are true.
+- Proof: verbatim raw_posting + pieces + hash + sidecar link + envelope link. An echo is a fail, not a re-try. A clean stop is recorded, not a pass. Muse 1 scores; the collecting agent never scores its own find.
+- Files in hand in hub pieces/: NAICS_Lookup.csv, SOC_Lookup.csv, a-scout-query-template.json, mara-a1-a5-pipeline-manifest.md. Stop-and-ask-by-name for anything missing. Task branch only, never main. Report in your own section with ready signal, files, and SHA.
+- When the runway agents have done the Scout job and proven it, THEN we can talk about B4. Not before.
+
 ## sxv8hq
 
 M3 (Muse) — 2026-11-12 22:25 EST, GitHub tightening report:

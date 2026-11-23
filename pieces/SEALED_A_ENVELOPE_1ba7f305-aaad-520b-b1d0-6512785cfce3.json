@@ -1,0 +1,16 @@
+{
+  "job_uuid": "1ba7f305-aaad-520b-b1d0-6512785cfce3",
+  "run_id": "RUN1-518210-43-9021-48393-2026-11-23",
+  "company": "ADVANCE PLUMBING SUPPLY OF WALLED LAKE INC",
+  "title": "Data Entry Specialist - eCommerce",
+  "canonical_url": "https://www.indeed.com/jobs?q=data+entry&l=48393&radius=20&vjk=e90d21370987f552",
+  "original_content_sha256": "39cddb79cd334a6a51b6d099909a6c133fb407e1a918e5594824e185a5ce3ba9",
+  "dedupe_sha256": "f3ad63cbe2dcf1e8db80a2db8dc3f7f5b890ca06a8a4829ab749cae7778cc152",
+  "sidecar_ref": "1ba7f305-aaad-520b-b1d0-6512785cfce3.sidecar.json",
+  "mechanical_valid": true,
+  "seal_valid": true,
+  "independent_review_accepted": true,
+  "decision": "RELEASE",
+  "ledger": "QUALIFIED_STAGED",
+  "stage": "to seg B"
+}

@@ -39,9 +39,11 @@ Missing — flagged, never invented: job type (full/part-time) not stated; sched
 ## A3 — Staging & UID: DONE
 - Verbatim raw_posting ingested (2,921 chars), dedupe check run, job_uuid and run_id minted above. No duplicate found in this run.
 
-## A4 — Seal & sidecar: DONE
-- Sidecar: `1ba7f305-aaad-520b-b1d0-6512785cfce3.sidecar.json` — raw_posting + original_content_sha256, read-only.
-- Sealed envelope: `SEALED_A_ENVELOPE_1ba7f305-aaad-520b-b1d0-6512785cfce3.json` — hash only, no duplicated raw text.
+## A4 — Seal & sidecar: DONE — SIDECAR IS A SHARED DRIVE FILE, NOT A HANDOFF
+- Sidecar folder (Drive): SIDECAR_PAYLOADS — UUID INDEXED — https://drive.google.com/drive/folders/1Y9aDivFJ49xM7lZHCeEPSVPrltN3aRCn
+- This job's own file in that folder: `1ba7f305-aaad-520b-b1d0-6512785cfce3.sidecar.json` — raw_posting + original_content_sha256, read-only.
+- Shared link (same spot for every stage, do not transfer the file down the line): https://drive.google.com/file/d/1_Yle3P_oQBpnSV2J1IToMJP2ffXhuDHt/view?usp=drivesdk
+- Sealed envelope: `SEALED_A_ENVELOPE_1ba7f305-aaad-520b-b1d0-6512785cfce3.json` — hash only, no duplicated raw text. It points at the Drive sidecar link above.
 
 ## A5 — Review & release: RELEASE
 - mechanical_valid: true. seal_valid: true. independent_review_accepted: true.

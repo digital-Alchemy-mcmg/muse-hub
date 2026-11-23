@@ -6,11 +6,12 @@
   "canonical_url": "https://www.indeed.com/jobs?q=data+entry&l=48393&radius=20&vjk=e90d21370987f552",
   "original_content_sha256": "39cddb79cd334a6a51b6d099909a6c133fb407e1a918e5594824e185a5ce3ba9",
   "dedupe_sha256": "f3ad63cbe2dcf1e8db80a2db8dc3f7f5b890ca06a8a4829ab749cae7778cc152",
-  "sidecar_ref": "1ba7f305-aaad-520b-b1d0-6512785cfce3.sidecar.json",
+  "sidecar_ref": "https://drive.google.com/file/d/1_Yle3P_oQBpnSV2J1IToMJP2ffXhuDHt/view?usp=drivesdk",
   "mechanical_valid": true,
   "seal_valid": true,
   "independent_review_accepted": true,
   "decision": "RELEASE",
   "ledger": "QUALIFIED_STAGED",
-  "stage": "to seg B"
+  "stage": "to seg B",
+  "sidecar_folder": "https://drive.google.com/drive/folders/1Y9aDivFJ49xM7lZHCeEPSVPrltN3aRCn"
 }

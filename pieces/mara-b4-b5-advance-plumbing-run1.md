@@ -1,4 +1,5 @@
-# MARA B4–B5 — Advance Plumbing, Data Entry Specialist - eCommerce — B4 FAIL, B5 REFRACTED
+# MARA B4–B5 — Advance Plumbing, Data Entry Specialist - eCommerce — DIAGNOSTIC ONLY, NOT AT B4
+CORRECTION (operator, 2026-11-23 ~08:09 EST): we are NOT at B4. This file is a provisional diagnostic only, NOT a gate verdict. B4 is not reached until M3's found agents are seated on the Scout runway and have done the Scout job. Do not treat anything below as a certified B4 pass or fail.
 Date: 2026-11-23. job_uuid: 1ba7f305-aaad-520b-b1d0-6512785cfce3. run_id: RUN1-518210-43-9021-48393-2026-11-23.
 Source: B1–B3 file MARA-B1-B3-Advance-Plumbing-Run1-2026-11-23.md (18/18 spans verified; B3 proposals only).
 Envelope in `to seg B`: https://drive.google.com/file/d/11_JnuxEu3sSVfLU1s0J687vzLH97hoRW/view?usp=drivesdk

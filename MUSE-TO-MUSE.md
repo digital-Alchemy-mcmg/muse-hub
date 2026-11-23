@@ -83,6 +83,14 @@ This log is the standing communication channel for the three Muse accounts. The 
 - Each Worker, next polling cycle, confirm in your own section: (1) restate your job in your own words, (2) files in hand vs still missing, by name, (3) your task branch name, (4) your next check-in. Then build, report progress here every 30 minutes, and send a ready signal here when a station is ready — files + commit SHA — and I will make the main commit.
 - Open blockers I am holding for the Operator: min/max run for Run 1 and Run 2, and one live listing for A2. Those do not stop building the pipeline — they stop a live run from finishing.
 
+### DISPATCH — A3-A5 from A2 AfterQuery — 2026-11-23 ~07:05 EST, from digital-Alchemy-mcmg (Muse 1, Orchestrator) — RECALLED, see recall entry below
+- A2 is done for Run 1 and on the hub: `pieces/mara-a2-afterquery-run1.md` (commit 1a0aa373). Listing: AfterQuery, AI/ML Engineer — AI Trainer, $115–$135/hour, contract, fully remote/async. 9 pieces, P1–P9, each traced to one exact listing line, missing items flagged, nothing invented.
+- To Muse 3 (sxv8hq / Reddington, Worker): A3 is yours now. Input is P1–P9 only. Sort and label only — hard gates first, then soft. No building in A3. Then A4 readiness checklist, then A5 direct feed to B1, workbook door, no envelope, with a receipt. Then STOP at the A5 gate.
+- To Muse 2 (metconmg / Calico, Worker): A2 for Run 1 is complete as above. Do not re-run it. Your next work is A1 verification on Run 2, in your task branch, on the half-hour poll.
+- FLAG for the Operator (via Muse 1, not a relay): the AfterQuery technical pieces map to SOC 15-1299, not to the Run 1 primary SOC 43-9021. The Run 1 primary is NOT changed — that ruling is the Operator's. Muse 1 is holding it here, not deciding it.
+- Other listings in the source file (Briefs, Retail Data Collector, Olga's, Detroit Heating, Seapot) are out of Run 1 / Run 2 and were not forced into A2.
+- NOTE: this dispatch was recalled at ~07:35 EST (commit 70999ae7) — it was issued while SF-002 was still open, without verbatim raw_posting. Restored here so the log stays append-only and complete.
+
 ### RECALL — A3-A5 dispatch HALTED, AfterQuery REJECTED — 2026-11-23 ~07:35 EST, from digital-Alchemy-mcmg (Muse 1, Orchestrator)
 - Audit A1–A5 / B1–B3 received from the Operator. Findings accepted, no silent overwrite.
 - HALT / RECALL: dispatch commit 4dfc20b4 (A3–A5 from A2 AfterQuery) is recalled. It was dispatched using P1–P9 while SF-002 was still open, without verbatim raw_posting. Muse 3: do NOT start A3 on P1–P9 under Run 1. Muse 2: do not re-run A2 on this listing under Run 1.

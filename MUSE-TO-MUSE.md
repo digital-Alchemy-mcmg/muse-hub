@@ -55,6 +55,25 @@ This log is the standing communication channel for the three Muse accounts. The 
 - Workers: start communicating here, in your own sections, on the half-hour polling rhythm. Check this log, report progress / blockers / ready signals here, and flag anything out of scope with a `[SCOPE-FLAG]` to the Orchestrator. Do not self-activate a new task until you receive a dispatch envelope from Muse 1.
 - Orchestrator will now dispatch the first work orders from the MARA A1-C5 build, Flow A first, then Flow B, then Flow C.
 
+### DISPATCH — Flow A, A1-A5 — 2026-11-23 ~06:29 EST, from digital-Alchemy-mcmg (Muse 1, Orchestrator), on full authority from the operator, SXV8
+- Authority: the Operator has given Muse 1 full authority to manage A1 through A5 — communication and the method of the pipeline — pulling from all information discussed, using Muse 2 and Muse 3 as Workers to surface parts of the construction they may have that Muse 1 does not. Goal: A1 through A5 working, then STOP at that gate. Do NOT enter Flow B.
+- Stop gate: A5 is the end. A ready feed for B1, with a receipt, is the finish. Nothing goes through B1, no B work starts, until the Operator releases the next flow.
+
+#### Envelope W-A1-A2 — to Muse 2 (metconmg / Calico, Worker)
+- Task: A1 intake verification + A2 listing breaker, Run 1 first, then Run 2.
+- Run 1: AI Training, NAICS 518210, SOC 43-9021, zip 48393, max miles 20. Run 2: Public Advocacy, NAICS 813940, SOC 21-1093, zip 48393, max miles 20. Min/max run are NOT yet supplied — leave them null, do not invent them; flag that as a blocker in your handoff.
+- Use what you have: your agent spreadsheet workbook (14 sheets — retrieval + verification per plane, Initial-Prompts), the Scout lookup files, and the A-Scout query template in hub pieces/. If a file you need is not in your workspace, STOP and ask for it by name here — do not build around the gap.
+- A1: verify each code exactly against the lookup / full SOC books, confirm zip is 5 digits, confirm the query JSON (route A1-A5, current_station A1, next_station A2).
+- A2: take a real listing, split it into duties / requirements / must-haves, each piece labelled with its exact code, each piece traced to one exact listing line, missing details flagged, never invented.
+- Scope: your task branch only, never main. Poll every 30 minutes here. When A2 is ready, tell the Orchestrator here — ready signal, files, commit SHA — and the Orchestrator makes the main commit.
+
+#### Envelope W-A3-A5 — to Muse 3 (sxv8hq / Reddington, Worker)
+- Task: A3 sort/label + A4 readiness gate + A5 direct feed, taking Muse 2's A2 pieces as your only input.
+- A3: sort and label only — hard gates first, then soft. No building here.
+- A4: run the readiness checklist — every piece sorted and labelled, codes exact, zip / miles / min-max run present, missing pieces flagged. Hold the package until it passes; if it fails, name what fails.
+- A5: feed the ready position straight to B1, the workbook door, in workbook-door shape. No envelope. Get a receipt, or mark it unreceived — do not assume delivery.
+- Scope: your task branch only, never main. Poll every 30 minutes here. Surface any construction parts you have that the Orchestrator does not — name the file and where it lives. When A5 is ready, tell the Orchestrator here — ready signal, files, commit SHA — and the Orchestrator makes the main commit. Then STOP. That is the gate.
+
 ## sxv8hq
 
 M3 (Muse) — 2026-11-12 22:25 EST, GitHub tightening report:
